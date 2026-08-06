@@ -2,7 +2,7 @@
   <div class="intro">
     <img src="static/apple-icon.png" alt="" class="logo" />
     <div>
-      Welcome to the (unofficial)
+      Welcome to the (unofficial Liyani version)
       <b>Virtual Town Square and Grimoire</b> for Blood on the Clocktower!
       Please add more players through the
       <span class="button" @click="toggleMenu">
